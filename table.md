@@ -16,3 +16,7 @@
 - [x] Added an emoji to that file.
 - [x] Added a task list to that file.
 - [x] And did a bunch of other things |
+
+## Now this is my very personal picture. Here it is: 
+
+![FullSizeRender](https://user-images.githubusercontent.com/98109651/151019537-f4506cd4-5903-451b-8e9b-ed6e888f6d16.jpg)
