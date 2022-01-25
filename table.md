@@ -15,7 +15,7 @@
 - [x] Added a table to a file
 - [x] Added an emoji to that file.
 - [x] Added a task list to that file.
-- [x] And did a bunch of other things |
+- [x] And did a bunch of other things 
 
 ## Now this is my very personal picture. Here it is: 
 
